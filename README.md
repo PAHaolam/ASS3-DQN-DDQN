@@ -209,5 +209,5 @@ CleanRL is a community-powered by project and our contributors run experiments o
 
 ## To-do list
 - [x] Dựa theo bản cài đặt DQN của CleanRL, các bạn tự lập trình thuật toán Double DQN, lưu thành các file ddqn.py và ddqn_atari.py (để chạy các game Atari).
-- [] Thực nghiệm so sánh DQN và Double DQN trên CartPole-v0 (sử dụng ít nhất 3 random seeds MSSV, MSSV+1, MSSV+2, với MSSV là mã số sinh viên mỗi bạn).
-- [] Thực nghiệm so sánh DQN và Double DQN trên BreakoutNoFrameskip-v4 (sử dụng ít nhất 3 random seeds MSSV, MSSV+1, MSSV+2, với MSSV là mã số sinh viên mỗi bạn).
+- [.] Thực nghiệm so sánh DQN và Double DQN trên CartPole-v0 (sử dụng ít nhất 3 random seeds MSSV, MSSV+1, MSSV+2, với MSSV là mã số sinh viên mỗi bạn).
+- [.] Thực nghiệm so sánh DQN và Double DQN trên BreakoutNoFrameskip-v4 (sử dụng ít nhất 3 random seeds MSSV, MSSV+1, MSSV+2, với MSSV là mã số sinh viên mỗi bạn).
